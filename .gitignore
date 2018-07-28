@@ -2,3 +2,4 @@
 /soluciones
 spam.zip
 /.ipynb_checkpoints
+__pycache__/
